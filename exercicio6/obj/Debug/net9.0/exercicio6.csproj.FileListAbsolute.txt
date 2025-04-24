@@ -1,0 +1,14 @@
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\bin\Debug\net9.0\exercicio6.exe
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\bin\Debug\net9.0\exercicio6.deps.json
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\bin\Debug\net9.0\exercicio6.runtimeconfig.json
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\bin\Debug\net9.0\exercicio6.dll
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\bin\Debug\net9.0\exercicio6.pdb
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.AssemblyInfoInputs.cache
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.AssemblyInfo.cs
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.csproj.CoreCompileInputs.cache
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.dll
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\refint\exercicio6.dll
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.pdb
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\exercicio6.genruntimeconfig.cache
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio6\obj\Debug\net9.0\ref\exercicio6.dll

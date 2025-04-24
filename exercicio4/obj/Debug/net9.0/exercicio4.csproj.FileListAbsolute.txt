@@ -1,0 +1,14 @@
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.AssemblyInfoInputs.cache
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.AssemblyInfo.cs
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.csproj.CoreCompileInputs.cache
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\bin\Debug\net9.0\exercicio4.exe
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\bin\Debug\net9.0\exercicio4.deps.json
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\bin\Debug\net9.0\exercicio4.runtimeconfig.json
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\bin\Debug\net9.0\exercicio4.dll
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\bin\Debug\net9.0\exercicio4.pdb
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.dll
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\refint\exercicio4.dll
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.pdb
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\exercicio4.genruntimeconfig.cache
+D:\Arquivos\Área de Trabalho\cs-atividades-github\exercicio4\obj\Debug\net9.0\ref\exercicio4.dll
