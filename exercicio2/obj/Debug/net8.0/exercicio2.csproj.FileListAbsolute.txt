@@ -1,0 +1,15 @@
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\bin\Debug\net8.0\exercicio2.exe
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\bin\Debug\net8.0\exercicio2.dll
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.sourcelink.json
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.dll
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+D:\3 semestre\Cs\github-10-exercicios\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll
